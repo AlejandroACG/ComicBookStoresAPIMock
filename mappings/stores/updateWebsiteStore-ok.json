@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "PATCH",
-    "url": "/comic-book/genre/99"
+    "url": "/store/website/3"
   },
   "response": {
-    "status": 404,
+    "status": 200,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "comic-books/comicBookNotFound.json"
+    "bodyFileName": "stores/updateWebsiteStore-ok.json"
   }
 }

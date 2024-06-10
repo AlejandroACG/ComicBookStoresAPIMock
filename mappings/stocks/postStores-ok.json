@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/stores"
+  },
+  "response": {
+    "status": 201,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "stores/postStores-ok.json"
+  }
+}

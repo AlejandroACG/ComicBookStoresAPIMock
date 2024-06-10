@@ -5,70 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abab19e8-f925-467f-ab87-a68c97b3fb96" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/__files/comic-books/comicBookNotFound.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/comic-books/getComicBook-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/comic-books/getComicBooks-genre-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/comic-books/getComicBooks-title-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/comic-books/postComicBooks-400-2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/comic-books/postComicBooks-400.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/comic-books/postComicBooks-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/comic-books/updateComicBook-400.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/comic-books/updateComicBook-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/comic-books/updateGenreComicBook-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/comic-books/deleteComicBook-404.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/comic-books/deleteComicBook-500.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/comic-books/getComicBook-404.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/comic-books/getComicBook-500.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/comic-books/getComicBook-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/comic-books/getComicBooks-genre-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/comic-books/getComicBooks-title-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/comic-books/postComicBooks-400-2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/comic-books/postComicBooks-400.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/comic-books/postComicBooks-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/comic-books/updateComicBook-400.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/comic-books/updateComicBook-404.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/comic-books/updateComicBook-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/comic-books/updateGenreComicBook-404.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/comic-books/updateGenreComicBook-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/users/deleteUser-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/users/updatePremiumUser-500-2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/stores/getStore-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/stores/getStores-address-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/stores/getStores-name-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/stores/getStores-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/stores/postStores-409.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/stores/postStores-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/stores/storeNotFound.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/stores/updateStore-409.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/stores/updateStore-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/stores/updateWebsiteStore-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/stores/deleteStore-404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/stores/deleteStore-500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/stores/deleteStore-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/stores/getStore-404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/stores/getStore-500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/stores/getStore-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/stores/getStores-address-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/stores/getStores-name-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/stores/getStores-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/stores/postStores-409.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/stores/postStores-500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/stores/postStores-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/stores/updateStore-404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/stores/updateStore-409.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/stores/updateStore-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/stores/updateWebsiteStore-404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/stores/updateWebsiteStore-500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/stores/updateWebsiteStore-ok.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__files/getComicBooks-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/comic-books/getComicBooks-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__files/getUser-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/users/getUser-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__files/getUsers-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/users/getUsers-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__files/getUsers-username-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/users/getUsers-username-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__files/loginUser-400.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/users/loginUser-400.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__files/loginUser-401.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/users/loginUser-401.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__files/loginUser-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/users/loginUser-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__files/postUsers-email-409.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/users/postUsers-email-409.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__files/postUsers-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/users/postUsers-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__files/postUsers-username-409.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/users/postUsers-username-409.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__files/updatePremiumUser-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/users/updatePremiumUser-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__files/updateUser-409.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/users/updateUser-409.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__files/updateUser-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/users/updateUser-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__files/userNotFound.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/users/userNotFound.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/deleteUser-404.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/users/deleteUser-404.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/deleteUser-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/users/deleteUser-500.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/deleteUser-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/comic-books/deleteComicBook-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/getComicBooks-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/comic-books/getComicBooks-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/getUser-404.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/users/getUser-404.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/getUser-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/users/getUser-500.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/getUser-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/users/getUser-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/getUsers-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/users/getUsers-500.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/getUsers-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/users/getUsers-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/getUsers-username-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/users/getUsers-username-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/loginUser-400.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/users/loginUser-400.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/loginUser-401.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/users/loginUser-401.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/loginUser-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/users/loginUser-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/postUsers-email-409.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/users/postUsers-email-409.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/postUsers-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/users/postUsers-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/postUsers-username-409.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/users/postUsers-username-409.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/updatePremiumUser-500-2.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/comic-books/updateGenreComicBook-500.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/updatePremiumUser-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/users/updatePremiumUser-500.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/updatePremiumUser-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/users/updatePremiumUser-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/updateUser-404.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/users/updateUser-404.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/updateUser-409.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/users/updateUser-409.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/updateUser-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/users/updateUser-ok.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__files/getStocks-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/getStocks-ok.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__files/getStoreReviews-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/getStoreReviews-ok.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__files/users/updateUser-409.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/users/updateUser-409.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/comic-books/updateGenreComicBook-404.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/comic-books/updateGenreComicBook-404.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/users/updateUser-409.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/users/updateUser-409.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,16 +63,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "develop",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/acris/Dropbox/IdeaProjects/ComicBookStoresAPIMock/mappings/comic-books"
+    "last_opened_file_path": "C:/Users/acris/Dropbox/IdeaProjects/ComicBookStoresAPIMock/mappings/stores"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\mappings\stores" />
+      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\__files\stores" />
       <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\mappings\comic-books" />
       <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\__files\comic-books" />
       <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\mappings" />
-      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\__files" />
-      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\mappings\users" />

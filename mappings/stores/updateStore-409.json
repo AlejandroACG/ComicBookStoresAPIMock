@@ -1,10 +1,10 @@
 {
   "request": {
     "method": "PUT",
-    "url": "/user/4",
+    "url": "/store/3",
     "bodyPatterns": [
       {
-        "contains": "\"email\": \"micorreo@correo.com\""
+        "contains": "\"address\": \"Avd Monegros\""
       }
     ]
   },
@@ -13,6 +13,6 @@
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "users/updateUser-409.json"
+    "bodyFileName": "stores/updateStore-409.json"
   }
 }

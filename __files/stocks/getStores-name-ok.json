@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "stocks": [
+      {
+        "id": 1,
+        "price": 23.99,
+        "quantity": 5,
+        "restockDate": "2000-12-05",
+        "supplier": "Norma Editorial",
+        "discounted": false
+      },
+      {
+        "id": 2,
+        "price": 1.29,
+        "quantity": 5,
+        "restockDate": "2034-12-05",
+        "supplier": "Norma Editorial",
+        "discounted": true
+      }
+    ],
+    "storeReviews": [
+      {
+        "id": 2,
+        "title": "Voy a diario",
+        "content": "Buen trato, gente muy amable.",
+        "rating": 4.5,
+        "date": "2024-01-30",
+        "likes": 0,
+        "public": true
+      }
+    ],
+    "name": "Norma Comics",
+    "address": "Avd Monegros",
+    "latitude": 80.0,
+    "longitude": 80.0,
+    "phone": "555565555555",
+    "email": "fewfeewfewfw@fewfew.com",
+    "website": "https://efa44erawewfe.com",
+    "openingDate": "2022-12-01",
+    "hasOnlineStore": false,
+    "numberOfEmployees": 10
+  }
+]

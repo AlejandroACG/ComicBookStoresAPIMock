@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/store/3f"
+  },
+  "response": {
+    "status": 500,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "unexpectedError.json"
+  }
+}

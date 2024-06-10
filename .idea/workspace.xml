@@ -1,11 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="abab19e8-f925-467f-ab87-a68c97b3fb96" name="Changes" comment="" />
+    <list default="true" id="abab19e8-f925-467f-ab87-a68c97b3fb96" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/__files/defaultResponse.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/getComicBookReviews-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/getStoreReviews-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/getUser-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/getUsers-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/getUsers-username-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/loginUser-400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/loginUser-401.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/loginUser-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/postUsers-email-409.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/postUsers-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/postUsers-username-409.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/unexpectedError.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/updatePremiumUser-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/updateUser-409.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/updateUser-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/userNotFound.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/defaultRequest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/deleteUser-404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/deleteUser-500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/deleteUser-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/getUser-404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/getUser-500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/getUser-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/getUsers-500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/getUsers-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/getUsers-username-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/loginUser-400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/loginUser-401.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/loginUser-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/postUsers-email-409.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/postUsers-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/postUsers-username-409.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/updatePremiumUser-500-2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/updatePremiumUser-500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/updatePremiumUser-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/updateUser-404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/updateUser-409.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/updateUser-ok.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
@@ -18,10 +65,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "git-widget-placeholder": "develop",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/acris/Dropbox/IdeaProjects/ComicBookStoresAPIMock/mappings"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\mappings" />
+      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\__files" />
+      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

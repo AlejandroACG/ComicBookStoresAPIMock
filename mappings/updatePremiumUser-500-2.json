@@ -1,0 +1,19 @@
+{
+  "priority": 1,
+  "request": {
+    "method": "PATCH",
+    "url": "/user/premium/4",
+    "bodyPatterns": [
+      {
+        "doesNotContain": "\"premium\""
+      }
+    ]
+  },
+  "response": {
+    "status": 500,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "unexpectedError.json"
+  }
+}

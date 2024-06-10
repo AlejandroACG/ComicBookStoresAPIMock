@@ -1,0 +1,19 @@
+{
+  "priority": 1,
+  "request": {
+    "method": "POST",
+    "url": "/users",
+    "bodyPatterns": [
+      {
+        "contains": "\"username\": \"Alejandro\""
+      }
+    ]
+  },
+  "response": {
+    "status": 409,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "postUsers-username-409.json"
+  }
+}

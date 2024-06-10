@@ -1,0 +1,7 @@
+{
+  "code": 400,
+  "message": "Validation error",
+  "errors": {
+    "password": "password can't be blank"
+  }
+}

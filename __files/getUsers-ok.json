@@ -1,0 +1,126 @@
+[
+  {
+    "id": 1,
+    "comicBookReviews": [
+      {
+        "id": 1,
+        "title": "Está potente el cómic",
+        "content": "Esta es una review sincera",
+        "rating": 5.0,
+        "date": "2024-01-30",
+        "likes": 5,
+        "public": true
+      },
+      {
+        "id": 4,
+        "title": "Vaya patata de cómic",
+        "content": "Mi abuela escribiría uno mejor",
+        "rating": 9.5,
+        "date": "2024-05-31",
+        "likes": 0,
+        "public": false
+      },
+      {
+        "id": 5,
+        "title": "Titulin",
+        "content": "No lo he leído",
+        "rating": 0.0,
+        "date": "2024-05-31",
+        "likes": 0,
+        "public": true
+      }
+    ],
+    "storeReviews": [
+      {
+        "id": 2,
+        "title": "Voy a diario",
+        "content": "Buen trato, gente muy amable.",
+        "rating": 4.5,
+        "date": "2024-01-30",
+        "likes": 0,
+        "public": true
+      },
+      {
+        "id": 3,
+        "title": "Excelente lugar",
+        "content": "Tienen de todo",
+        "rating": 5,
+        "date": "2024-05-31",
+        "likes": 0,
+        "public": true
+      }
+    ],
+    "username": "Alejandro",
+    "email": "micorreo@correo.com",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "contributions": 10,
+    "registrationDate": "2024-01-29",
+    "premium": true
+  },
+  {
+    "id": 2,
+    "comicBookReviews": [
+      {
+        "id": 2,
+        "title": "El cómic no mola",
+        "content": "Esta no es una review sincera",
+        "rating": 10.0,
+        "date": "2024-01-30",
+        "likes": 0,
+        "public": true
+      },
+      {
+        "id": 3,
+        "title": "Es el Dark Souls de los cómics",
+        "content": "Está guay el cómic",
+        "rating": 5.0,
+        "date": "2024-01-30",
+        "likes": 0,
+        "public": true
+      }
+    ],
+    "storeReviews": [
+      {
+        "id": 1,
+        "title": "No recomendada",
+        "content": "Huele a cerrado",
+        "rating": 0,
+        "date": "2024-01-30",
+        "likes": 7,
+        "public": true
+      }
+    ],
+    "username": "Marisol",
+    "email": "marisol@correo.com",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "contributions": 8,
+    "registrationDate": "2024-01-29",
+    "premium": true
+  },
+  {
+    "id": 3,
+    "comicBookReviews": [],
+    "storeReviews": [],
+    "username": "Enrique",
+    "email": "quique@correo.com",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "contributions": 5,
+    "registrationDate": "2024-01-29",
+    "premium": false
+  },
+  {
+    "id": 4,
+    "comicBookReviews": [],
+    "storeReviews": [],
+    "username": "Santiago",
+    "email": "santi@correo.com",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "contributions": 4,
+    "registrationDate": "2024-06-09",
+    "premium": true
+  }
+]

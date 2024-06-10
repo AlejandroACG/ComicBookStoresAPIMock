@@ -1,0 +1,22 @@
+{
+  "priority": 1,
+  "request": {
+    "method": "POST",
+    "url": "/user/login",
+    "bodyPatterns": [
+      {
+        "contains": "\"username\": \"Santiago\""
+      },
+      {
+        "contains": "\"password\": \"123\""
+      }
+    ]
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "loginUser-ok.json"
+  }
+}

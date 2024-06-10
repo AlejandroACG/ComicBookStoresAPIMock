@@ -4,42 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abab19e8-f925-467f-ab87-a68c97b3fb96" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/__files/stores/getStore-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/stores/getStores-address-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/stores/getStores-name-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/stores/getStores-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/stores/postStores-409.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/stores/postStores-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/stores/storeNotFound.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/stores/updateStore-409.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/stores/updateStore-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/stores/updateWebsiteStore-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/stores/deleteStore-404.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/stores/deleteStore-500.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/stores/deleteStore-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/stores/getStore-404.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/stores/getStore-500.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/stores/getStore-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/stores/getStores-address-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/stores/getStores-name-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/stores/getStores-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/stores/postStores-409.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/stores/postStores-500.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/stores/postStores-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/stores/updateStore-404.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/stores/updateStore-409.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/stores/updateStore-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/stores/updateWebsiteStore-404.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/stores/updateWebsiteStore-500.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/stores/updateWebsiteStore-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__files/getStocks-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/getStocks-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__files/getStoreReviews-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/getStoreReviews-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__files/users/updateUser-409.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/users/updateUser-409.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/comic-books/updateGenreComicBook-404.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/comic-books/updateGenreComicBook-404.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/users/updateUser-409.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/users/updateUser-409.json" afterDir="false" />
-    </list>
+    <list default="true" id="abab19e8-f925-467f-ab87-a68c97b3fb96" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,23 +28,23 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "develop",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/acris/Dropbox/IdeaProjects/ComicBookStoresAPIMock/mappings/stores"
+    "last_opened_file_path": "C:/Users/acris/Dropbox/IdeaProjects/ComicBookStoresAPIMock/__files/stocks"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\__files\stocks" />
+      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\mappings\stocks" />
       <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\mappings\stores" />
       <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\__files\stores" />
       <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\mappings\comic-books" />
-      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\__files\comic-books" />
-      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\mappings" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\__files\stocks" />
       <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\mappings\users" />
       <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\mappings\comic-books" />
       <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\__files\users" />
       <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\__files" />
-      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\__files\comic-books" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

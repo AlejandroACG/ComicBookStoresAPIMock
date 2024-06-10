@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "GET",
-    "url": "/users?username=Ale"
+    "url": "/comic-books?genre=Fantasy"
   },
   "response": {
     "status": 200,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "getUsers-username-ok.json"
+    "bodyFileName": "comic-books/getComicBooks-genre-ok.json"
   }
 }

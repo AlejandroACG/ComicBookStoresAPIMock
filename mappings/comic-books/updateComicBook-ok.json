@@ -1,13 +1,13 @@
 {
   "request": {
-    "method": "GET",
-    "url": "/users"
+    "method": "PUT",
+    "url": "/comic-book/3"
   },
   "response": {
     "status": 200,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "getUsers-ok.json"
+    "bodyFileName": "comic-books/updateComicBook-ok.json"
   }
 }

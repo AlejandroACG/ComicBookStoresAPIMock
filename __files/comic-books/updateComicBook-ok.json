@@ -1,0 +1,13 @@
+{
+  "id": 3,
+  "stocks": [],
+  "comicBookReviews": [],
+  "title": "Boku no Hero Academia",
+  "cover": "http://res.cloudinary.com/dc6f4s32a/image/upload/v1706548224/l7frcvsotccoxkxzxzpd.jpg",
+  "publicationDate": "2022-01-01",
+  "genre": "Action, Superheroes",
+  "publisher": "Shonen Jump",
+  "averageRating": 0.0,
+  "numberOfPages": 99,
+  "limitedEdition": true
+}

@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "PUT",
-    "url": "/user/5"
+    "url": "/comic-book/99"
   },
   "response": {
     "status": 404,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "userNotFound.json"
+    "bodyFileName": "comic-books/comicBookNotFound.json"
   }
 }

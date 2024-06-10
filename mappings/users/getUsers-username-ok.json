@@ -1,13 +1,13 @@
 {
   "request": {
-    "method": "PATCH",
-    "url": "/user/premium/4"
+    "method": "GET",
+    "url": "/users?username=Ale"
   },
   "response": {
     "status": 200,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "updatePremiumUser-ok.json"
+    "bodyFileName": "users/getUsers-username-ok.json"
   }
 }

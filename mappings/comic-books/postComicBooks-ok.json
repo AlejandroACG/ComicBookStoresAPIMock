@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "POST",
-    "url": "/user/login"
+    "url": "/comic-books"
   },
   "response": {
-    "status": 401,
+    "status": 201,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "loginUser-401.json"
+    "bodyFileName": "comic-books/postComicBooks-ok.json"
   }
 }

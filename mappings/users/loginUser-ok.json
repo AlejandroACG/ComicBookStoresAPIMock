@@ -5,15 +5,18 @@
     "url": "/user/login",
     "bodyPatterns": [
       {
-        "doesNotContain": "\"password\""
+        "contains": "\"username\": \"Santiago\""
+      },
+      {
+        "contains": "\"password\": \"123\""
       }
     ]
   },
   "response": {
-    "status": 400,
+    "status": 200,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "loginUser-400.json"
+    "bodyFileName": "users/loginUser-ok.json"
   }
 }

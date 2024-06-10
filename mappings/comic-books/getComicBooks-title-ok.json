@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "GET",
-    "url": "/comic-books"
+    "url": "/comic-books?title=Jujutsu"
   },
   "response": {
     "status": 200,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "getComicBooks-ok.json"
+    "bodyFileName": "comic-books/getComicBooks-title-ok.json"
   }
 }

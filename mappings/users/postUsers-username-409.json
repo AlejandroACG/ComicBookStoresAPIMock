@@ -14,6 +14,6 @@
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "postUsers-username-409.json"
+    "bodyFileName": "users/postUsers-username-409.json"
   }
 }

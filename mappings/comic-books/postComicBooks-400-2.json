@@ -1,19 +1,18 @@
 {
-  "priority": 1,
   "request": {
     "method": "POST",
-    "url": "/users",
+    "url": "/comic-books",
     "bodyPatterns": [
       {
-        "contains": "\"email\": \"santi@correo.com\""
+        "doesNotContain": "\"title\""
       }
     ]
   },
   "response": {
-    "status": 409,
+    "status": 400,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "postUsers-email-409.json"
+    "bodyFileName": "comic-books/postComicBooks-400-2.json"
   }
 }

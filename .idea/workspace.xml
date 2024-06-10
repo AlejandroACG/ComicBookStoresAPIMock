@@ -5,45 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abab19e8-f925-467f-ab87-a68c97b3fb96" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/__files/defaultResponse.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/getComicBookReviews-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/getStoreReviews-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/getUser-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/getUsers-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/getUsers-username-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/loginUser-400.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/loginUser-401.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/loginUser-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/postUsers-email-409.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/postUsers-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/postUsers-username-409.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/unexpectedError.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/updatePremiumUser-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/updateUser-409.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/updateUser-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/userNotFound.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/defaultRequest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/deleteUser-404.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/deleteUser-500.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/deleteUser-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/getUser-404.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/getUser-500.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/getUser-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/getUsers-500.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/getUsers-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/getUsers-username-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/loginUser-400.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/loginUser-401.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/loginUser-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/postUsers-email-409.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/postUsers-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/postUsers-username-409.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/updatePremiumUser-500-2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/updatePremiumUser-500.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/updatePremiumUser-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/updateUser-404.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/updateUser-409.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mappings/updateUser-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/getComicBooks-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/getStocks-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/getComicBooks-ok.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

@@ -34,14 +34,5 @@
     "date": "2024-05-31",
     "likes": 0,
     "public": false
-  },
-  {
-    "id": 5,
-    "title": "Titulin",
-    "content": "No lo he leído",
-    "rating": 0.0,
-    "date": "2024-05-31",
-    "likes": 0,
-    "public": true
   }
 ]

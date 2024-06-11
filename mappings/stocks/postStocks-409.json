@@ -1,10 +1,13 @@
 {
   "request": {
     "method": "POST",
-    "url": "/stores",
+    "url": "/stocks",
     "bodyPatterns": [
       {
-        "contains": "\"address:\" \"Avd Monegros\""
+        "contains": "\"comicBookId\": \"1\""
+      },
+      {
+        "contains": "\"storeId\": \"1\""
       }
     ]
   },
@@ -13,6 +16,6 @@
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "stores/postStores-409.json"
+    "bodyFileName": "stocks/postStocks-409.json"
   }
 }

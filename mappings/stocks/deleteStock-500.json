@@ -1,12 +1,13 @@
 {
   "request": {
     "method": "DELETE",
-    "url": "/store/3"
+    "url": "/stock/3f"
   },
   "response": {
-    "status": 204,
+    "status": 500,
     "headers": {
       "Content-Type": "application/json"
-    }
+    },
+    "bodyFileName": "unexpectedError.json"
   }
 }

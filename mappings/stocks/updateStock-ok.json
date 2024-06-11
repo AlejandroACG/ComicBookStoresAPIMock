@@ -1,13 +1,13 @@
 {
   "request": {
-    "method": "PATCH",
-    "url": "/store/website/3"
+    "method": "PUT",
+    "url": "/stock/3"
   },
   "response": {
     "status": 200,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "stores/updateWebsiteStore-ok.json"
+    "bodyFileName": "stocks/updateStock-ok.json"
   }
 }

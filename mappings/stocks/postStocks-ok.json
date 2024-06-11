@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "POST",
-    "url": "/stores"
+    "url": "/stocks"
   },
   "response": {
     "status": 201,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "stores/postStores-ok.json"
+    "bodyFileName": "stocks/postStocks-ok.json"
   }
 }

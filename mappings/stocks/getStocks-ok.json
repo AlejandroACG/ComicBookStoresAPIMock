@@ -1,13 +1,13 @@
 {
   "request": {
-    "method": "PUT",
-    "url": "/store/3"
+    "method": "GET",
+    "url": "/stocks"
   },
   "response": {
     "status": 200,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "stores/updateStore-ok.json"
+    "bodyFileName": "stocks/getStocks-ok.json"
   }
 }

@@ -1,13 +1,13 @@
 {
   "request": {
-    "method": "GET",
-    "url": "/store/3"
+    "method": "PATCH",
+    "url": "/stock/price/3"
   },
   "response": {
     "status": 200,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "stores/getStore-ok.json"
+    "bodyFileName": "stocks/updatePriceStock-ok.json"
   }
 }

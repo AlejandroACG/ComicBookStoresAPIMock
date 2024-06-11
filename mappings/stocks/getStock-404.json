@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "GET",
-    "url": "/stores?name=Norma"
+    "url": "/stock/99"
   },
   "response": {
-    "status": 200,
+    "status": 404,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "stores/getStores-name-ok.json"
+    "bodyFileName": "stocks/stockNotFound.json"
   }
 }

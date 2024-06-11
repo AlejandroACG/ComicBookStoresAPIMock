@@ -1,0 +1,8 @@
+{
+  "id": 3,
+  "price": 999.99,
+  "quantity": 5,
+  "restockDate": "2034-12-05",
+  "supplier": "Norma Editorial",
+  "discounted": true
+}

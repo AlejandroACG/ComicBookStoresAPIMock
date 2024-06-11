@@ -4,7 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abab19e8-f925-467f-ab87-a68c97b3fb96" name="Changes" comment="" />
+    <list default="true" id="abab19e8-f925-467f-ab87-a68c97b3fb96" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/__files/stocks/getStocks-isDiscounted-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/stocks/getStocks-storeId-ok.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__files/stocks/getStore-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/stocks/getStock-ok.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__files/stocks/getStores-address-ok.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__files/stocks/getStores-name-ok.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__files/stocks/postStores-409.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/stocks/postStocks-409.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__files/stocks/postStores-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/stocks/postStocks-ok.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__files/stocks/storeNotFound.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/stocks/stockNotFound.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__files/stocks/updateStore-409.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/stocks/updateStock-400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__files/stocks/updateStore-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/stocks/updateStock-ok.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__files/stocks/updateWebsiteStore-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/stocks/updatePriceStock-ok.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/stocks/getStore-404.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/getStock-404.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/stocks/getStore-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/getStock-500.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/stocks/getStore-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/getStock-ok.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/stocks/getStores-address-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/getStocks-isDiscounted-ok.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/stocks/getStores-name-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/getStocks-storeId-ok.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/stocks/getStores-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/getStocks-ok.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/stocks/postStores-409.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/postStocks-409.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/stocks/postStores-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/postStocks-500.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/stocks/postStores-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/postStocks-ok.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/stocks/updateStore-404.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/updateStock-404.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/stocks/updateStore-409.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/updateStock-400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/stocks/updateStore-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/updateStock-ok.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/stocks/updateWebsiteStore-404.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/updatePriceStock-404.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/stocks/updateWebsiteStore-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/updatePriceStock-500.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/stocks/updateWebsiteStore-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/updatePriceStock-ok.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

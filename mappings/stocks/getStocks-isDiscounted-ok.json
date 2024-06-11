@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "GET",
-    "url": "/store/3f"
+    "url": "/stocks?isDiscounted=true"
   },
   "response": {
-    "status": 500,
+    "status": 200,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "unexpectedError.json"
+    "bodyFileName": "stocks/getStocks-isDiscounted-ok.json"
   }
 }

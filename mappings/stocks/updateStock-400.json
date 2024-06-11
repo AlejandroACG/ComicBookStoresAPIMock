@@ -1,18 +1,18 @@
 {
   "request": {
     "method": "PUT",
-    "url": "/store/3",
+    "url": "/stock/3",
     "bodyPatterns": [
       {
-        "contains": "\"address\": \"Avd Monegros\""
+        "contains": "\"storeId\": \"1\""
       }
     ]
   },
   "response": {
-    "status": 409,
+    "status": 400,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "stores/updateStore-409.json"
+    "bodyFileName": "stocks/updateStock-400.json"
   }
 }

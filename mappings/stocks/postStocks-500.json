@@ -1,7 +1,12 @@
 {
   "request": {
-    "method": "DELETE",
-    "url": "/store/3f"
+    "method": "POST",
+    "url": "/stocks",
+    "bodyPatterns": [
+      {
+        "contains": "\"discounted\": \"sí\""
+      }
+    ]
   },
   "response": {
     "status": 500,

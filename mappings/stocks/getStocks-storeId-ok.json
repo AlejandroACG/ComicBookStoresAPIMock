@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "GET",
-    "url": "/stores"
+    "url": "/stocks?storeId=1"
   },
   "response": {
     "status": 200,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "stores/getStores-ok.json"
+    "bodyFileName": "stocks/getStocks-storeId-ok.json"
   }
 }

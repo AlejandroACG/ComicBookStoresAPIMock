@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "GET",
-    "url": "/store/99"
+    "url": "/stock/3f"
   },
   "response": {
-    "status": 404,
+    "status": 500,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "stores/storeNotFound.json"
+    "bodyFileName": "unexpectedError.json"
   }
 }

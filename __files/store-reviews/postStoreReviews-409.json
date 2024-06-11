@@ -1,0 +1,5 @@
+{
+  "code": 409,
+  "message": "Store Review associated with Store 1 and User 1 already exists",
+  "errors": {}
+}

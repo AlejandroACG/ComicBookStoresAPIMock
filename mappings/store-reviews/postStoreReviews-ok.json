@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/store-reviews"
+  },
+  "response": {
+    "status": 201,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "store-reviews/postStoreReviews-ok.json"
+  }
+}

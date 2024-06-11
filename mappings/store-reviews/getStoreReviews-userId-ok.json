@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/store-reviews?userId=1"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "store-reviews/getStoreReviews-userId-ok.json"
+  }
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "comicBooks": [],
+    "name": "Alberto el Hambriento",
+    "alias": "Galactus",
+    "creationDate": "1992-11-30",
+    "powers": "Vuela, Superfuerza",
+    "height": 10034,
+    "age": 1000000000,
+    "lgbt": false
+  },
+  {
+    "id": 2,
+    "comicBooks": [],
+    "name": "Sukuna",
+    "alias": "King of Curses",
+    "creationDate": "1992-11-30",
+    "powers": "Muchos",
+    "height": 22,
+    "age": 1000,
+    "lgbt": true
+  },
+  {
+    "id": 3,
+    "comicBooks": [],
+    "name": "Zoro Roronoa",
+    "alias": "Pirate Hunter",
+    "creationDate": "1992-11-30",
+    "powers": "Espadachín, Haki",
+    "height": 18,
+    "age": 21,
+    "lgbt": false
+  }
+]

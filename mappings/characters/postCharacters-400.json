@@ -1,0 +1,18 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/characters",
+    "bodyPatterns": [
+      {
+        "contains": "\"age\": \"veintiuno\""
+      }
+    ]
+  },
+  "response": {
+    "status": 400,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "characters/postCharacters-400.json"
+  }
+}

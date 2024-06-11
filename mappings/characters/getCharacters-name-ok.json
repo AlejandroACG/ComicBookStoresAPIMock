@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/characters?name=Zoro"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "characters/getCharacters-name-ok.json"
+  }
+}

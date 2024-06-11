@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/comic-book-reviews"
+  },
+  "response": {
+    "status": 201,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "comic-book-reviews/postComicBookReviews-ok.json"
+  }
+}

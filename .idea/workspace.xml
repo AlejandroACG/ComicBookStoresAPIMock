@@ -5,33 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abab19e8-f925-467f-ab87-a68c97b3fb96" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/__files/stocks/getStocks-isDiscounted-ok.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__files/stocks/getStocks-storeId-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/comic-book-reviews/comicBookReviewNotFound.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/comic-book-reviews/getComicBookReview-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/comic-book-reviews/getComicBookReviews-rating-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/comic-book-reviews/getComicBookReviews-userId-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/comic-book-reviews/likeComicBookReview-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/comic-book-reviews/postComicBookReviews-409.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/comic-book-reviews/postComicBookReviews-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/comic-book-reviews/updateComicBookReview-400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/comic-book-reviews/updateComicBookReview-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/comic-book-reviews/deleteComicBookReview-404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/comic-book-reviews/deleteComicBookReview-500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/comic-book-reviews/deleteComicBookReview-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/comic-book-reviews/getComicBookReview-404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/comic-book-reviews/getComicBookReview-500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/comic-book-reviews/getComicBookReview-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/comic-book-reviews/getComicBookReviews-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/comic-book-reviews/getComicBookReviews-rating-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/comic-book-reviews/getComicBookReviews-userId-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/comic-book-reviews/likeComicBookReview-404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/comic-book-reviews/likeComicBookReview-500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/comic-book-reviews/likeComicBookReview-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/comic-book-reviews/postComicBookReviews-409.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/comic-book-reviews/postComicBookReviews-500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/comic-book-reviews/postComicBookReviews-ok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/comic-book-reviews/updateComicBookReview-400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/comic-book-reviews/updateComicBookReview-404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mappings/comic-book-reviews/updateComicBookReview-ok.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__files/stocks/getStore-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/stocks/getStock-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__files/stocks/getStores-address-ok.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__files/stocks/getStores-name-ok.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__files/stocks/postStores-409.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/stocks/postStocks-409.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__files/stocks/postStores-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/stocks/postStocks-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__files/stocks/storeNotFound.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/stocks/stockNotFound.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__files/stocks/updateStore-409.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/stocks/updateStock-400.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__files/stocks/updateStore-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/stocks/updateStock-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__files/stocks/updateWebsiteStore-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/stocks/updatePriceStock-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/stocks/getStore-404.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/getStock-404.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/stocks/getStore-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/getStock-500.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/stocks/getStore-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/getStock-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/stocks/getStores-address-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/getStocks-isDiscounted-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/stocks/getStores-name-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/getStocks-storeId-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/stocks/getStores-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/getStocks-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/stocks/postStores-409.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/postStocks-409.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/stocks/postStores-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/postStocks-500.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/stocks/postStores-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/postStocks-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/stocks/updateStore-404.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/updateStock-404.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/stocks/updateStore-409.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/updateStock-400.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/stocks/updateStore-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/updateStock-ok.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/stocks/updateWebsiteStore-404.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/updatePriceStock-404.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/stocks/updateWebsiteStore-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/updatePriceStock-500.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mappings/stocks/updateWebsiteStore-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/updatePriceStock-ok.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__files/comic-books/getComicBooks-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/comic-books/getComicBooks-ok.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__files/getComicBookReviews-ok.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/comic-book-reviews/getComicBookReviews-ok.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,23 +59,23 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "develop",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/acris/Dropbox/IdeaProjects/ComicBookStoresAPIMock/__files/stocks"
+    "last_opened_file_path": "C:/Users/acris/Dropbox/IdeaProjects/ComicBookStoresAPIMock/mappings/comic-book-reviews"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\mappings\comic-book-reviews" />
+      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\__files\comic-book-reviews" />
       <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\__files\stocks" />
       <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\mappings\stocks" />
       <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\mappings\stores" />
-      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\__files\stores" />
-      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\mappings\comic-books" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\__files\comic-book-reviews" />
       <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\__files\stocks" />
       <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\mappings\users" />
       <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\mappings\comic-books" />
       <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\__files\users" />
-      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\__files" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

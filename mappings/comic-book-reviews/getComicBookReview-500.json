@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/comic-book-review/4f"
+  },
+  "response": {
+    "status": 500,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "unexpectedError.json"
+  }
+}

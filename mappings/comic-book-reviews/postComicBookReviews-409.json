@@ -1,0 +1,21 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/comic-book-reviews",
+    "bodyPatterns": [
+      {
+        "contains": "\"comicBookId\": \"1\""
+      },
+      {
+        "contains": "\"userId\": \"1\""
+      }
+    ]
+  },
+  "response": {
+    "status": 409,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "comic-book-reviews/postComicBookReviews-409.json"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/comic-book-reviews",
+    "bodyPatterns": [
+      {
+        "contains": "\"public\": \"no\""
+      }
+    ]
+  },
+  "response": {
+    "status": 500,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "unexpectedError.json"
+  }
+}

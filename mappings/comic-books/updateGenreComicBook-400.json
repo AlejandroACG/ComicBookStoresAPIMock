@@ -1,0 +1,19 @@
+{
+  "priority": 1,
+  "request": {
+    "method": "PATCH",
+    "url": "/comic-book/genre/3",
+    "bodyPatterns": [
+      {
+        "doesNotContain": "\"genre\""
+      }
+    ]
+  },
+  "response": {
+    "status": 400,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "comic-books/updateGenreComicBook-400.json"
+  }
+}

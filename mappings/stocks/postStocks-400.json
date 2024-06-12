@@ -1,0 +1,18 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/stocks",
+    "bodyPatterns": [
+      {
+        "contains": "\"discounted\": \"sí\""
+      }
+    ]
+  },
+  "response": {
+    "status": 400,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "stocks/postStocks-400.json"
+  }
+}

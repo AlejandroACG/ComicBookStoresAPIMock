@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/comic-book-review/4f"
+  },
+  "response": {
+    "status": 400,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "comic-book-reviews/getComicBookReview-400.json"
+  }
+}

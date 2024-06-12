@@ -1,0 +1,18 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/stores",
+    "bodyPatterns": [
+      {
+        "contains": "\"hasOnlineStore\": \"verdad\""
+      }
+    ]
+  },
+  "response": {
+    "status": 400,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "stores/postStores-400.json"
+  }
+}

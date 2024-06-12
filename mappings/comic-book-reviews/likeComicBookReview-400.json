@@ -1,0 +1,19 @@
+{
+  "priority": 1,
+  "request": {
+    "method": "PATCH",
+    "url": "/comic-book-review/like/4",
+    "bodyPatterns": [
+      {
+        "doesNotContain": "\"like\""
+      }
+    ]
+  },
+  "response": {
+    "status": 400,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "comic-book-reviews/likeComicBookReview-400.json"
+  }
+}

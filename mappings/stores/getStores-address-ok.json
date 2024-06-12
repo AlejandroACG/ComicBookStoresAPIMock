@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/stores?address=Yo qué sé"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "stores/getStores-address-ok.json"
+  }
+}

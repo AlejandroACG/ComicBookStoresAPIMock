@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "stocks": [
+      {
+        "id": 1,
+        "price": 23.99,
+        "quantity": 5,
+        "restockDate": "2000-12-05",
+        "supplier": "Norma Editorial",
+        "discounted": false
+      },
+      {
+        "id": 2,
+        "price": 1.29,
+        "quantity": 5,
+        "restockDate": "2034-12-05",
+        "supplier": "Norma Editorial",
+        "discounted": true
+      }
+    ],
+    "storeReviews": [
+      {
+        "id": 2,
+        "title": "Voy a diario",
+        "content": "Buen trato, gente muy amable.",
+        "rating": 4.5,
+        "date": "2024-01-30",
+        "likes": 0,
+        "public": true
+      }
+    ],
+    "name": "Norma Comics",
+    "address": "Avd Monegros",
+    "latitude": 80.0,
+    "longitude": 80.0,
+    "phone": "555565555555",
+    "email": "fewfeewfewfw@fewfew.com",
+    "website": "https://efa44erawewfe.com",
+    "openingDate": "2022-12-01",
+    "hasOnlineStore": false,
+    "numberOfEmployees": 10
+  },
+  {
+    "id": 2,
+    "stocks": [],
+    "storeReviews": [
+      {
+        "id": 1,
+        "title": "No recomendada",
+        "content": "Huele a cerrado",
+        "rating": 0,
+        "date": "2024-01-30",
+        "likes": 7,
+        "public": true
+      }
+    ],
+    "name": "Fnac",
+    "address": "Avd Jacetania",
+    "latitude": 80.0,
+    "longitude": 80.0,
+    "phone": "55555555555",
+    "email": "fewfeewfergregreewfw@fewfew.com",
+    "website": "https://efa44eregerrawewfe.com",
+    "openingDate": "2022-12-01",
+    "hasOnlineStore": true,
+    "numberOfEmployees": 10
+  },
+  {
+    "id": 3,
+    "stocks": [],
+    "storeReviews": [
+      {
+        "id": 3,
+        "title": "Excelente lugar",
+        "content": "Tienen de todo",
+        "rating": 5,
+        "date": "2024-05-31",
+        "likes": 0,
+        "public": true
+      }
+    ],
+    "name": "Corte Inglés",
+    "address": "Yo qué sé ya nº 234",
+    "latitude": 80.0,
+    "longitude": 80.0,
+    "phone": "555555555554",
+    "email": "fewfeewfergeregreewfw@fewfew.com",
+    "website": "https://efea44eregerrawewfe.com",
+    "openingDate": "2022-12-01",
+    "hasOnlineStore": true,
+    "numberOfEmployees": 10
+  }
+]

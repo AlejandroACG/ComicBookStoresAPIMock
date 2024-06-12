@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2,
+    "title": "El cómic no mola",
+    "content": "Esta no es una review sincera",
+    "rating": 10.0,
+    "date": "2024-01-30",
+    "likes": 0,
+    "public": true
+  },
+  {
+    "id": 4,
+    "title": "Vaya patata de cómic",
+    "content": "Mi abuela escribiría uno mejor",
+    "rating": 9.5,
+    "date": "2024-05-31",
+    "likes": 0,
+    "public": false
+  }
+]

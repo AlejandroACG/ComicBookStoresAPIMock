@@ -1,0 +1,7 @@
+{
+  "code": 400,
+  "message": "Validation error",
+  "errors": {
+    "numberOfPages": "Failed to convert property value of type 'java.lang.String' to required type 'int' for property 'age'; For input string: \"veintiuno\""
+  }
+}

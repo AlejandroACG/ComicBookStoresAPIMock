@@ -1,0 +1,19 @@
+{
+  "priority": 1,
+  "request": {
+    "method": "PATCH",
+    "url": "/user/premium/4",
+    "bodyPatterns": [
+      {
+        "doesNotContain": "\"premium\""
+      }
+    ]
+  },
+  "response": {
+    "status": 400,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "users/updatePremiumUser-400-2.json"
+  }
+}

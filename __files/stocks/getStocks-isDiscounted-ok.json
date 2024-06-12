@@ -1,0 +1,10 @@
+[
+  {
+    "id": 97,
+    "price": 1.29,
+    "quantity": 5,
+    "restockDate": "2034-12-05",
+    "supplier": "Norma Editorial",
+    "discounted": true
+  }
+]

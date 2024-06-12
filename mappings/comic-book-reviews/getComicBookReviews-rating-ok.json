@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/comic-book-reviews?rating=9.5"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "comic-book-reviews/getComicBookReviews-rating-ok.json"
+  }
+}

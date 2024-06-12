@@ -1,0 +1,18 @@
+{
+  "request": {
+    "method": "PUT",
+    "url": "/store-review/4",
+    "bodyPatterns": [
+      {
+        "contains": "\"storeId\": \"1\""
+      }
+    ]
+  },
+  "response": {
+    "status": 400,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "store-reviews/updateStoreReview-400.json"
+  }
+}

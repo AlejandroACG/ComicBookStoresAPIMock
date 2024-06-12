@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/stores?name=Norma"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "stores/getStores-name-ok.json"
+  }
+}

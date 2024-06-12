@@ -1,11 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="abab19e8-f925-467f-ab87-a68c97b3fb96" name="Changes" comment="" />
+    <list default="true" id="abab19e8-f925-467f-ab87-a68c97b3fb96" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/__files/characters/getCharacter-400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/comic-book-reviews/deleteComicBookReview-400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/comic-book-reviews/getComicBookReview-400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/comic-book-reviews/likeComicBookReview-400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/comic-book-reviews/postComicBookReviews-400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/comic-books/deleteComicBook-400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/comic-books/getComicBook-400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/comic-books/updateGenreComicBook-400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/stocks/deleteStock-400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/stocks/getStock-400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/stocks/postStocks-400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/stocks/updatePriceStock-400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/store-reviews/deleteStoreReview-400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/store-reviews/getStoreReview-400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/store-reviews/likeStoreReview-400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/stores/deleteStore-400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/stores/getStore-400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/stores/postStores-400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/stores/updateWebsiteStore-400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/users/deleteUser-400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/users/getUser-400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/users/getUsers-400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/users/updatePremiumUser-400-2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__files/users/updatePremiumUser-400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__files/unexpectedError.json" beforeDir="false" afterPath="$PROJECT_DIR$/__files/unexpectedError.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/characters/getCharacter-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/characters/getCharacter-400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/characters/updateAliasCharacter-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/characters/updateAliasCharacter-400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/comic-book-reviews/deleteComicBookReview-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/comic-book-reviews/deleteComicBookReview-400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/comic-book-reviews/getComicBookReview-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/comic-book-reviews/getComicBookReview-400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/comic-book-reviews/likeComicBookReview-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/comic-book-reviews/likeComicBookReview-400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/comic-book-reviews/postComicBookReviews-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/comic-book-reviews/postComicBookReviews-400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/comic-books/deleteComicBook-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/comic-books/deleteComicBook-400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/comic-books/getComicBook-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/comic-books/getComicBook-400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/comic-books/updateGenreComicBook-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/comic-books/updateGenreComicBook-400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/stocks/deleteStock-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/deleteStock-400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/stocks/getStock-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/getStock-400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/stocks/postStocks-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/postStocks-400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/stocks/updatePriceStock-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stocks/updatePriceStock-400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/store-reviews/deleteStoreReview-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/store-reviews/deleteStoreReview-400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/store-reviews/getStoreReview-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/store-reviews/getStoreReview-400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/store-reviews/likeStoreReview-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/store-reviews/likeStoreReview-400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/stores/deleteStore-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stores/deleteStore-400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/stores/getStore-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stores/getStore-400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/stores/postStores-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stores/postStores-400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/stores/updateWebsiteStore-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/stores/updateWebsiteStore-400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/users/deleteUser-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/users/deleteUser-400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/users/getUser-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/users/getUser-400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/users/getUsers-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/users/getUsers-400.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/users/updatePremiumUser-500-2.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/users/updatePremiumUser-400-2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/users/updatePremiumUser-500.json" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/users/updatePremiumUser-400.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
@@ -18,10 +76,29 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "git-widget-placeholder": "develop",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/acris/Dropbox/IdeaProjects/ComicBookStoresAPIMock/mappings/characters"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\mappings\characters" />
+      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\__files\characters" />
+      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\mappings\store-reviews" />
+      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\__files\store-reviews" />
+      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\mappings\comic-book-reviews" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\__files\store-reviews" />
+      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\__files\comic-book-reviews" />
+      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\__files\stocks" />
+      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\mappings\users" />
+      <recent name="C:\Users\acris\Dropbox\IdeaProjects\ComicBookStoresAPIMock\mappings\comic-books" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

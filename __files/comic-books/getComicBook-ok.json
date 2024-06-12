@@ -1,0 +1,23 @@
+{
+  "id": 3,
+  "stocks": [],
+  "comicBookReviews": [
+    {
+      "id": 4,
+      "title": "Vaya patata de cómic",
+      "content": "Mi abuela escribiría uno mejor",
+      "rating": 9.5,
+      "date": "2024-05-31",
+      "likes": 0,
+      "public": false
+    }
+  ],
+  "title": "Jujutsu Kaisen",
+  "cover": "http://res.cloudinary.com/dc6f4s32a/image/upload/v1706548224/l7frcvsotccoxkxzxzpd.jpg",
+  "publicationDate": "2022-01-01",
+  "genre": "Action, Manga, Fantasy",
+  "publisher": "Shonen Jump",
+  "averageRating": 0.0,
+  "numberOfPages": 99,
+  "limitedEdition": true
+}

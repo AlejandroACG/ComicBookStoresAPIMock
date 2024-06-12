@@ -1,0 +1,21 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/stocks",
+    "bodyPatterns": [
+      {
+        "contains": "\"comicBookId\": \"1\""
+      },
+      {
+        "contains": "\"storeId\": \"1\""
+      }
+    ]
+  },
+  "response": {
+    "status": 409,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "stocks/postStocks-409.json"
+  }
+}

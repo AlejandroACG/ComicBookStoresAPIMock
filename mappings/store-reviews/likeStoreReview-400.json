@@ -1,0 +1,19 @@
+{
+  "priority": 1,
+  "request": {
+    "method": "PATCH",
+    "url": "/store-review/like/3",
+    "bodyPatterns": [
+      {
+        "doesNotContain": "\"like\""
+      }
+    ]
+  },
+  "response": {
+    "status": 400,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "store-reviews/likeStoreReview-400.json"
+  }
+}

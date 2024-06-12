@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/comic-books"
+  },
+  "response": {
+    "status": 201,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "comic-books/postComicBooks-ok.json"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/comic-books",
+    "bodyPatterns": [
+      {
+        "doesNotContain": "\"title\""
+      }
+    ]
+  },
+  "response": {
+    "status": 400,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "comic-books/postComicBooks-400-2.json"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/stocks?isDiscounted=true"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "stocks/getStocks-isDiscounted-ok.json"
+  }
+}

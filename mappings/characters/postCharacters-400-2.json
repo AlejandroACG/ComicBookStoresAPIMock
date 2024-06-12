@@ -1,0 +1,18 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/characters",
+    "bodyPatterns": [
+      {
+        "doesNotContain": "\"name\""
+      }
+    ]
+  },
+  "response": {
+    "status": 400,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "characters/postCharacters-400-2.json"
+  }
+}

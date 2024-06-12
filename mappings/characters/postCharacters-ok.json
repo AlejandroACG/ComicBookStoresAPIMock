@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/characters"
+  },
+  "response": {
+    "status": 201,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "characters/postCharacters-ok.json"
+  }
+}

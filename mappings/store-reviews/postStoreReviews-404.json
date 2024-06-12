@@ -1,0 +1,18 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/store-reviews",
+    "bodyPatterns": [
+      {
+        "contains": "\"storeId\": \"99\""
+      }
+    ]
+  },
+  "response": {
+    "status": 404,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "stores/storeNotFound.json"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "request": {
+    "method": "PUT",
+    "url": "/user/4",
+    "bodyPatterns": [
+      {
+        "contains": "\"email\": \"micorreo@correo.com\""
+      }
+    ]
+  },
+  "response": {
+    "status": 409,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "users/updateUser-409.json"
+  }
+}

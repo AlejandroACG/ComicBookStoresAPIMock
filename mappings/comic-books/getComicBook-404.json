@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/comic-book/99"
+  },
+  "response": {
+    "status": 404,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "comic-books/comicBookNotFound.json"
+  }
+}

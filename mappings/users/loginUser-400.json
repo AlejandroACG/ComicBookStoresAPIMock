@@ -1,0 +1,19 @@
+{
+  "priority": 1,
+  "request": {
+    "method": "POST",
+    "url": "/user/login",
+    "bodyPatterns": [
+      {
+        "doesNotContain": "\"password\""
+      }
+    ]
+  },
+  "response": {
+    "status": 400,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "users/loginUser-400.json"
+  }
+}

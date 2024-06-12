@@ -1,0 +1,18 @@
+{
+  "request": {
+    "method": "PUT",
+    "url": "/comic-book/3",
+    "bodyPatterns": [
+      {
+        "contains": "\"numberOfPages\": \"noventa\""
+      }
+    ]
+  },
+  "response": {
+    "status": 400,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "comic-books/updateComicBook-400.json"
+  }
+}

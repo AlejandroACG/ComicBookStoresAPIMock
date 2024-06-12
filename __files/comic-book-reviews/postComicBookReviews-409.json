@@ -1,0 +1,5 @@
+{
+  "code": 409,
+  "message": "Comic Book Review associated with Comic 1 and User 1 already exists",
+  "errors": {}
+}

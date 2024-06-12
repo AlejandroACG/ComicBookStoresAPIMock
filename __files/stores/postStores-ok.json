@@ -1,0 +1,15 @@
+{
+  "id": 3,
+  "stocks": [],
+  "storeReviews": [],
+  "name": "Corte Inglés",
+  "address": "Yo qué sé ya nº 234",
+  "latitude": 80.0,
+  "longitude": 80.0,
+  "phone": "555555555554",
+  "email": "fewfeewfergeregreewfw@fewfew.com",
+  "website": "https://efea44eregerrawewfe.com",
+  "openingDate": "2022-12-01",
+  "hasOnlineStore": true,
+  "numberOfEmployees": 10
+}
